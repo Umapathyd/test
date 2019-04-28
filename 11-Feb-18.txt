@@ -1,0 +1,16 @@
+
+SVN- Centralized version control system server
+GIT - Distributed version control system server
+
+
+Q: can you plz remove one html file from any branch(b1 or Master)?
+
+A: git rm file.... git commit -m "removd"
+
+
+https://git-scm.com/book/en/v2
+Github.com
+
+https://drive.google.com/drive/folders/1GfknbjDzHmJDEyK0ZH5jCcr8Y0B8vEs8?usp=sharing
+
+apt-get install git -> git installation
